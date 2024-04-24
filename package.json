@@ -1,0 +1,19 @@
+{
+  "name": "aulaunifacsnodeci",
+  "version": "1.0.0",
+  "description": "exemplo de configuração de commitlint e gitActions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoDotto/AulaUnifacsNodeCI.git"
+  },
+  "author": "Thiago Neves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoDotto/AulaUnifacsNodeCI/issues"
+  },
+  "homepage": "https://github.com/ThiagoDotto/AulaUnifacsNodeCI#readme"
+}
