@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ThiagoDotto/AulaUnifacsNodeCI/issues"
   },
-  "homepage": "https://github.com/ThiagoDotto/AulaUnifacsNodeCI#readme"
+  "homepage": "https://github.com/ThiagoDotto/AulaUnifacsNodeCI#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
 }
